@@ -1,7 +1,7 @@
 openapi: 3.0.2
 info:
-  title: Retrieval Plugin API
-  description: A retrieval API for querying and filtering documents based on natural language queries and metadata
+  title: LangChain Docs API
+  description: This API lets you search through the LangChain Python Library documentation.
   version: 1.0.0
 servers:
   - url: https://your-app-url.com
